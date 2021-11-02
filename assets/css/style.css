@@ -1,11 +1,5 @@
-footer{
+body{
 	background-color: black;
-}
-
-footer a{
-	color: rgb(255, 255, 255);
-	text-decoration: none;
-	margin-top: 50px;
 }
 
 .img-menu{
@@ -15,16 +9,9 @@ footer a{
 }
 h1, p, a, span{
 	font-weight: bold;
-	font-family: 'Roboto Condensed', sans-serif;
-}
-.text{
-	font-size: 22px;
-	font-weight: bold;
+	font-family: 'Turret Road', cursive;
 }
 
-.text-title{
-	margin-top: 10px;
-}
 .text-menu{
 	color:white;
 	font-weight: bold;
@@ -34,22 +21,4 @@ h1, p, a, span{
 .logo-nav{
 	height: 80%;
 	width: 80%;
-}
-
-.text-painel{
-	font-size: 18px;
-	font-weight: bold !important;
-	color: black !important;
-}
-
-.text-painel-select{
-	font-size: 18px;
-	font-weight: bold !important;
-	color: white !important;
-	background-color: black;
-}
-
-.text-painel:hover{
-	font-size: 20px;
-	color: red !important;
 }
