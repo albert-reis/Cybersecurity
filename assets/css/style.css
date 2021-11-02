@@ -8,8 +8,14 @@ body{
 	background-repeat: no-repeat;
 }
 h1, p, a, span{
+	color: white;
 	font-weight: bold;
 	font-family: 'Turret Road', cursive;
+}
+
+.profile{
+	color: rgb(255, 81, 81);
+	font-family: 'Wallpoet', cursive;
 }
 
 .text-menu{
