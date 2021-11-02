@@ -1,14 +1,18 @@
-.navbar{
-    background-color: black;
+.navbar {
+    background: transparent;
 }
-.nav-buttons{
+
+.nav-buttons {
     text-decoration: none;
+    text-transform: uppercase;
     background-color: black;
     border-color: red;
-    color: rgb(255, 81, 81) !important ; 
+    color: rgb(255, 81, 81) !important;
     font-family: 'Turret Road', cursive;
 }
-.nav-buttons:hover{
-    color:white !important;
+
+.nav-buttons:hover {
+    border-color:rgb(255, 255, 255);
+    color: white !important;
     font-weight: bold;
 }
