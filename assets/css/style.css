@@ -7,8 +7,14 @@ body{
 	background-size: 100%;
 	background-repeat: no-repeat;
 }
-h1, p, a, span{
-	color: white;
+.carrousel-title{
+	color: rgb(255, 255, 255);
+	font-weight: bold;
+	font-family: 'Wallpoet', cursive;
+}
+
+h1,a,p{
+	color: rgb(255, 255, 255);
 	font-weight: bold;
 	font-family: 'Turret Road', cursive;
 }
