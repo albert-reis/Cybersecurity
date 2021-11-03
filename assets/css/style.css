@@ -3,7 +3,7 @@ body {
 }
 
 .servicos {
-	background-color: white;
+	background-color: transparent;
 	box-shadow: 0 0 1em rgb(34, 34, 34);
 	border-radius: 50px;
 }
@@ -15,7 +15,7 @@ body {
 }
 
 .servicos-title {
-	color: rgb(0, 0, 0);
+	color: rgb(255, 255, 255);
 	font-weight: bold;
 	font-family: 'Wallpoet', cursive;
 }
