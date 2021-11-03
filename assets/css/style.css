@@ -3,12 +3,19 @@ body {
 }
 
 .servicos {
-	background-color: black;
+	background-color: white;
+	box-shadow: 0 0 1em rgb(34, 34, 34);
 	border-radius: 50px;
 }
 
 .carrousel-title {
 	color: rgb(255, 255, 255);
+	font-weight: bold;
+	font-family: 'Wallpoet', cursive;
+}
+
+.servicos-title {
+	color: rgb(0, 0, 0);
 	font-weight: bold;
 	font-family: 'Wallpoet', cursive;
 }
@@ -30,7 +37,7 @@ h1, h2, a, p {
 
 .img-border {
 	border-radius: 50px !important;
-	border: 2px solid rgb(255, 81, 81);
+	box-shadow: 0 0 1em rgb(34, 34, 34);
 }
 
 .jumbotron {
@@ -50,6 +57,7 @@ hr {
 }
 
 .img{
+	box-shadow: 0 0 1em rgb(34, 34, 34);
 	width: 150px;
 	height: 150px;
 }
