@@ -72,8 +72,8 @@ hr {
 }
 
 .contact-buttons:hover {
-	border-color:rgb(72, 255, 0);
-    color: rgb(72, 255, 0) !important;
+	border-color:rgb(235, 235, 235);
+    color: rgb(255, 81, 81) !important;
     font-weight: bold;
 }
 
